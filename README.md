@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <h1 align="center">Hello, I'm Akshat Srivastava</h1>
 <h3 align="center">A passionate Software Engineer per from India, I have completed my Bachelor of Technology in Computer Science From Amity University . I am a Web developer passionate about problem solving with Cpp and Python and exploring in Python and blockchain systems.</h3>
