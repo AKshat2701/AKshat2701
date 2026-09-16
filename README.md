@@ -1,7 +1,7 @@
 ## 
 
 <h1 align="center">Hello, I'm Akshat Srivastava</h1>
-<h3 align="center">Passionate Software Engineer from India 🇮🇳 with a B.Tech in Computer Science from Amity University, specializing in web development with JavaScript and solving problems using C++ and python while exploring blockchain system.</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | MERN | Python | JavaScript | C++</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat2701&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2701" /> </p>
 
